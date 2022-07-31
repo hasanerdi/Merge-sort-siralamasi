@@ -33,3 +33,4 @@ Aynı işlem sağ taraf için de uygulanıyor.
 Daha sonra 8 22 ile 12 22 ile karşılaşırılır ve sayılar uygun yerlerini alarak [8,12,22] sağ dizisi oluşturulur.
 
 [11,16,21] ve [8,12,22] dizileri soldan sağa karşılaştırılarak tek bir sıralı dizi elde edilir. *Sonuç = [8,11,12,21,22] dizisi oluşur.
+Big O karmaşıklığı: (nlgn)'dir.
